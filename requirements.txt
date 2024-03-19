@@ -87,7 +87,7 @@ six
 sniffio
 soupsieve
 stack-data
-terminado
+#terminado
 threadpoolctl
 tinycss2
 tomli
