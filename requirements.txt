@@ -25,10 +25,10 @@ Jinja2==2.11.3
 MarkupSafe==1.1.1
 mistune==0.8.4
 nbclient==0.5.2
-nbconvert==6.0.7
+nbconvert
 nbformat==5.1.2
 nest-asyncio==1.5.1
-notebook==6.2.0
+notebook
 packaging==20.9
 pandocfilters==1.4.3
 matplotlib-inline
