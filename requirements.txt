@@ -24,7 +24,7 @@ jedi==0.18.0
 #jupyterlab-widgets==1.0.0
 MarkupSafe==1.1.1
 mistune==0.8.4
-nbclien
+nbclient
 nbconvert
 nbformat==5.1.2
 nest-asyncio==1.5.1
