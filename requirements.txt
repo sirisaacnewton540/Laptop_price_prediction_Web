@@ -15,7 +15,7 @@ ipython==7.20.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jedi==0.18.0
-Jinja2
+#Jinja2
 #jsonschema==3.2.0
 #jupyter-client==6.1.11
 #jupyter-core==4.7.1
@@ -24,7 +24,7 @@ Jinja2
 #jupyterlab-widgets==1.0.0
 MarkupSafe==1.1.1
 mistune==0.8.4
-nbclient==0.5.2
+nbclien
 nbconvert
 nbformat==5.1.2
 nest-asyncio==1.5.1
