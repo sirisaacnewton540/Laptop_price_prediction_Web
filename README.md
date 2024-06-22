@@ -22,9 +22,9 @@ This project aims to predict the prices of laptops based on various features suc
 The dataset used for this project should be included in the repository or you can provide a link to download it. Ensure the dataset is placed in the correct directory as specified in the code.
 
 ## Project Structure
-**1) Laptop_Price_Prediction_Web.ipynb:** Jupyter Notebook for data preprocessing, model training, and evaluation.
-**2) requirements.txt:** List of required Python packages.
-**3) laptopData.csv:** Directory containing the dataset (ensure the correct path in your notebooks).
+1) **Laptop_Price_Prediction_Web.ipynb:** Jupyter Notebook for data preprocessing, model training, and evaluation.
+2) **requirements.txt:** List of required Python packages.
+3) **laptopData.csv:** Directory containing the dataset (ensure the correct path in your notebooks).
 
 ## Example
 Here is an example of how to use the GUI:
