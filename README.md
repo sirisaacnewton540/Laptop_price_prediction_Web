@@ -17,5 +17,3 @@ CPU Brand
 Storage
 Storage Type
 Dual Storage
-Installation
-Clone the repository:
